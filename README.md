@@ -2,6 +2,8 @@
 
 ## Lokesh Pawar
 
+Hi, I'm Lokesh Pawar a full stack developer and cloud practisioner
+
 ### skills/languages
 
 - html5
