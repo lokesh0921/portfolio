@@ -2,7 +2,7 @@
 
 ## Lokesh Pawar
 
-### skills/ languages
+### skills/languages
 
 - html5
 - css3
